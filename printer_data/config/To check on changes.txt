@@ -1,3 +1,0 @@
-When changes are made:
-  [To de print head]
-    Checke endtsops are still the same
